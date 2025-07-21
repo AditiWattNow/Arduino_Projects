@@ -12,6 +12,34 @@ This repository contains a collection of beginner-level Arduino projects develop
 
 3. **Potentiometer LED Color Range Indicator**  
    Lighting up different LEDs (Red, Yellow, Green) based on the voltage range from a potentiometer.
+   
+5. 2_servo_joystick
+
+6. **tilt_switch_LEDs**
+
+7. **servo_angle_photoresistor**
+
+8. **joystick**
+
+9. **PhotoResister_LEDs**
+
+10. **buzzer_tone**
+
+11. **LED_Dimmer_PushButton_Buzzer**
+
+12. **led_toggle_button**
+
+13. **Colour_mixing_using_RGB_LED**
+14. 
+15. **temperature_sensor**
+
+16. **hex_binary_converter**
+
+17. **Shift_Bytes_LEDs**
+    -right shift
+    -left shift
+    -circular right shift
+    -circular left shift
 
 ## Purpose:
 
